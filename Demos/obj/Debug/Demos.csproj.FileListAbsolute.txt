@@ -1,0 +1,8 @@
+C:\Users\MEHMET CAN ÇETİN\Desktop\apt\yenilik\Demos\bin\Debug\Demos.exe.config
+C:\Users\MEHMET CAN ÇETİN\Desktop\apt\yenilik\Demos\bin\Debug\Demos.exe
+C:\Users\MEHMET CAN ÇETİN\Desktop\apt\yenilik\Demos\bin\Debug\Demos.pdb
+C:\Users\MEHMET CAN ÇETİN\Desktop\apt\yenilik\Demos\obj\Debug\Demos.csproj.AssemblyReference.cache
+C:\Users\MEHMET CAN ÇETİN\Desktop\apt\yenilik\Demos\obj\Debug\Demos.csproj.SuggestedBindingRedirects.cache
+C:\Users\MEHMET CAN ÇETİN\Desktop\apt\yenilik\Demos\obj\Debug\Demos.csproj.CoreCompileInputs.cache
+C:\Users\MEHMET CAN ÇETİN\Desktop\apt\yenilik\Demos\obj\Debug\Demos.exe
+C:\Users\MEHMET CAN ÇETİN\Desktop\apt\yenilik\Demos\obj\Debug\Demos.pdb
