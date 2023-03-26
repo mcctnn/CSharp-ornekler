@@ -1,0 +1,8 @@
+C:\Users\MEHMET CAN ÇETİN\Desktop\apt\DiziSiralama\DiziSiralama\bin\Debug\DiziSiralama.exe.config
+C:\Users\MEHMET CAN ÇETİN\Desktop\apt\DiziSiralama\DiziSiralama\bin\Debug\DiziSiralama.exe
+C:\Users\MEHMET CAN ÇETİN\Desktop\apt\DiziSiralama\DiziSiralama\bin\Debug\DiziSiralama.pdb
+C:\Users\MEHMET CAN ÇETİN\Desktop\apt\DiziSiralama\DiziSiralama\obj\Debug\DiziSiralama.csproj.AssemblyReference.cache
+C:\Users\MEHMET CAN ÇETİN\Desktop\apt\DiziSiralama\DiziSiralama\obj\Debug\DiziSiralama.csproj.SuggestedBindingRedirects.cache
+C:\Users\MEHMET CAN ÇETİN\Desktop\apt\DiziSiralama\DiziSiralama\obj\Debug\DiziSiralama.csproj.CoreCompileInputs.cache
+C:\Users\MEHMET CAN ÇETİN\Desktop\apt\DiziSiralama\DiziSiralama\obj\Debug\DiziSiralama.exe
+C:\Users\MEHMET CAN ÇETİN\Desktop\apt\DiziSiralama\DiziSiralama\obj\Debug\DiziSiralama.pdb
