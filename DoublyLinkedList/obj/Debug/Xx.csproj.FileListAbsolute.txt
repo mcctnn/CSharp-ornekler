@@ -1,0 +1,8 @@
+C:\Users\MEHMET CAN ÇETİN\Desktop\apt\yenilik\Xx\bin\Debug\Xx.exe.config
+C:\Users\MEHMET CAN ÇETİN\Desktop\apt\yenilik\Xx\bin\Debug\Xx.exe
+C:\Users\MEHMET CAN ÇETİN\Desktop\apt\yenilik\Xx\bin\Debug\Xx.pdb
+C:\Users\MEHMET CAN ÇETİN\Desktop\apt\yenilik\Xx\obj\Debug\Xx.csproj.AssemblyReference.cache
+C:\Users\MEHMET CAN ÇETİN\Desktop\apt\yenilik\Xx\obj\Debug\Xx.csproj.SuggestedBindingRedirects.cache
+C:\Users\MEHMET CAN ÇETİN\Desktop\apt\yenilik\Xx\obj\Debug\Xx.csproj.CoreCompileInputs.cache
+C:\Users\MEHMET CAN ÇETİN\Desktop\apt\yenilik\Xx\obj\Debug\Xx.exe
+C:\Users\MEHMET CAN ÇETİN\Desktop\apt\yenilik\Xx\obj\Debug\Xx.pdb
